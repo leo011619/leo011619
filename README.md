@@ -1,12 +1,12 @@
 ## 🤖 Olá, meu chamo <strong> Leonardo Ferraz!</strong>
 
->   Sou um estudante de programação Full Stack apaixonado por tecnologia e em busca de um sonho!
+>   Sou um estudante de programação FrontEnd apaixonado por tecnologia e em busca da minha primeira vaga de emprego!
 
 
 - 🤔 &nbsp; Estudando e explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **programação Full Stack** na <a href="https://www.digitalhouse.com/br/">DIGITAL HOUSE</a>.
+- 🎓 &nbsp; Estudei **programação Full Stack** na <a href="https://www.digitalhouse.com/br/">DIGITAL HOUSE</a>.
 - 💼 &nbsp; Atualmente procurando emprego/estágio
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript e Back-end**.
+- 🌱 &nbsp; Aprendendo cada mais sobre **JavaScript e Front-end**.
 ----
 
 ## 🚀 Minhas Skills
